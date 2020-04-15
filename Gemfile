@@ -13,7 +13,7 @@ group :production do
   gem 'pg'
 end
 gem 'carrierwave'
-gem 'mini_magick', '3.8.0'
+gem 'mini_magick', '4.9.4'
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
